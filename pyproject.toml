@@ -7,7 +7,7 @@ name = "openedx-calc"
 dynamic = ["version"]
 description = "A helper library for mathematical calculations and symbolic mathematics, used by Open edX."
 readme = "README.rst"
-license = "AGPL-3.0"
+license = "AGPL-3.0-or-later"
 license-files = ["LICENSE"]
 authors = [
     {name = "Open edX Project", email = "oscm@openedx.org"},
